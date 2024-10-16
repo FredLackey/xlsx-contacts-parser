@@ -1,15 +1,27 @@
 {
   "name": "xlsx-contacts-parser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Extract Basic Contact Lists from Excel Files",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url" : "git+https://github.com/FredLackey/xlsx-contacts-parser.git"
+  },
+  "bugs"   : {
+    "url": "https://github.com/FredLackey/xlsx-contacts-parser/issues"
+  },
+  "homepage" : "https://github.com/FredLackey/xlsx-contacts-parser#readme",
   "keywords": [
     "excel",
     "contacts",
-    "parser"
+    "parser",
+    "xlsx",
+    "xls",
+    "json",
+    "email"
   ],
   "author": {
     "name": "Fred Lackey",
